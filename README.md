@@ -27,7 +27,7 @@ TBA.
 ```bash
 # 1. Grab the code
 git clone https://github.com/open-cmuq/YallaEvents.git
-cd yalla_events
+cd yalla-events
 
 # 2. Install packages
 flutter pub get
@@ -41,8 +41,8 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Acknowledgments
 Created during a reflection session on the London trip by:
-- Abdulrahman
-- Gustavo
+- Abdulrahman Al-Taweel
+- Gustavo Ramalho
 - Diyorbek Ibragimov
 
 _Stay updated. Show up. Yalla._
