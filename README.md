@@ -13,13 +13,7 @@ Students often miss out on talks, workshops, and club socials because the inform
 - **Social Sharing** – share events with classmates in two clicks
 
 ## Tech Stack
-| Layer | Tool |
-|-------|------|
-| UI    | Flutter 3.x (Dart) |
-| Design | Figma (design file in `/design` folder) |
-| State  | Riverpod |
-| Data   | REST integration with the university event API |
-| Auth   | University SSO (OAuth 2) |
+TBA.
 
 > **Timeline** – One month for the MVP. We move fast and ship often.
 
