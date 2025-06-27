@@ -8,9 +8,9 @@ Students often miss out on talks, workshops, and club socials because the inform
 ## Core Features
 - **Live Event Feed** – automatic sync with the university event system once an event is approved
 - **Smart Filters** – pick by category, time, location, or whether there is food
-- **Personal Calendar** – add events to the device calendar with one tap
+- **Personal Calendar** – add events to the device calendar
 - **Push Reminders** – optional reminders so users never miss the fun
-- **Social Sharing** – share events with classmates in two clicks
+- **Event Sharing** – share events with peers
 
 ## Tech Stack
 TBA.
