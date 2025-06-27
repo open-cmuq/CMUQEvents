@@ -44,9 +44,6 @@ flutter pub get
 flutter run
 ```
 
-### Environment
-Copy `.env.sample` to `.env` and fill in the API keys provided by the university IT office.
-
 ## Development Tasks
 | Phase | Goals |
 |-------|-------|
