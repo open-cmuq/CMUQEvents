@@ -27,7 +27,7 @@ TBA.
 ```bash
 # 1. Grab the code
 git clone https://github.com/open-cmuq/YallaEvents.git
-cd yalla-events
+cd yalla_events
 
 # 2. Install packages
 flutter pub get
