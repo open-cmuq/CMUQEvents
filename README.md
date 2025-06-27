@@ -73,7 +73,4 @@ Created during a reflection session on the London trip by:
 - Gustavo
 - Diyorbek Ibragimov
 
-## Contact
-For questions, reach out in the `#yallaevents` Slack channel or email **events-dev@university.edu**.
-
 _Stay updated. Show up. Yalla._
