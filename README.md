@@ -38,16 +38,6 @@ flutter pub get
 flutter run
 ```
 
-## Development Tasks
-| Phase | Goals |
-|-------|-------|
-| Week 1 | Set up project, deliver login screen, connect to staging API |
-| Week 2 | Build event list, implement filters |
-| Week 3 | Calendar integration, push notifications |
-| Week 4 | Polish UI, internal beta, bug fixes |
-
-The full roadmap lives in the GitHub Issues tab.
-
 ## Contributing
 Pull requests are welcome. For major changes, open an issue first so we can discuss the scope.
 
