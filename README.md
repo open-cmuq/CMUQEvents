@@ -1,4 +1,3 @@
-```
 # YallaEvents Mobile App
 
 Welcome to the home of **YallaEvents**, a hybrid Flutter application that keeps students in the loop about every campus happening in real time.
@@ -81,4 +80,3 @@ Created during a reflection session on the London trip by:
 For questions, reach out in the `#yallaevents` Slack channel or email **events-dev@university.edu**.
 
 _Stay updated. Show up. Yalla._
-```
