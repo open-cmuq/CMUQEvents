@@ -21,6 +21,6 @@ We welcome contributions from students and faculty! To contribute:
 
 ## License (Subject to change?)
 
-This project is licensed under the [GNU General Public License v2.0](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
