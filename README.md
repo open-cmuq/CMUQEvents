@@ -15,8 +15,6 @@ Students often miss out on talks, workshops, and club socials because the inform
 ## Tech Stack
 TBA.
 
-> **Timeline** – One month for the MVP. We move fast and ship often.
-
 ## Getting Started
 
 ### Prerequisites
@@ -28,8 +26,8 @@ TBA.
 ### Clone & Run
 ```bash
 # 1. Grab the code
-git clone https://github.com/YallaEvents/mobile.git
-cd mobile
+git clone https://github.com/open-cmuq/YallaEvents.git
+cd yalla-events
 
 # 2. Install packages
 flutter pub get
@@ -37,16 +35,6 @@ flutter pub get
 # 3. Launch the app
 flutter run
 ```
-
-## Contributing
-Pull requests are welcome. For major changes, open an issue first so we can discuss the scope.
-
-### Branch Strategy
-- `main` – production ready
-- `dev` – active sprints
-- `feature/*` – individual features
-
-Run `flutter analyze` and `flutter test` before submitting a PR.
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
