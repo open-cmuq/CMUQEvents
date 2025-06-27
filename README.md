@@ -36,9 +36,6 @@ flutter pub get
 flutter run
 ```
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
-
 ## Acknowledgments
 Created during a reflection session on the London trip by:
 - Abdulrahman Al-Taweel
