@@ -42,4 +42,7 @@ Created during a reflection session on the London trip by:
 - Gustavo Ramalho
 - Diyorbek Ibragimov
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
 _Stay updated. Show up. Yalla._
