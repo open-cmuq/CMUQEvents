@@ -18,7 +18,3 @@ We welcome contributions from students and faculty! To contribute:
 - Discord
 - Reach me at ataweel@andrew.cmu.edu && dibragim@andrew.cmu.edu
 - Reach out to opencmuq@andrew.cmu.edu
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
